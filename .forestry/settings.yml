@@ -6,26 +6,6 @@ webhook_url:
 sections:
 - type: directory
   path: ''
-  label: OUR ROOMS
-  create: all
-  match: "**/*"
-- type: directory
-  path: ''
-  label: MEET OUR TEAM
-  create: all
-  match: "**/*"
-- type: directory
-  path: ''
-  label: CONTACT US
-  create: all
-  match: "**/*"
-- type: directory
-  path: ''
-  label: ABOUT US
-  create: all
-  match: "**/*"
-- type: directory
-  path: ''
   label: About Us
   create: all
   match: "**/*"
