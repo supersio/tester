@@ -6,22 +6,27 @@ webhook_url:
 sections:
 - type: directory
   path: ''
-  label: Contact us
+  label: OUR ROOMS
   create: all
   match: "**/*"
 - type: directory
   path: ''
-  label: Our Rooms
+  label: MEET OUR TEAM
   create: all
   match: "**/*"
 - type: directory
   path: ''
-  label: News
+  label: CONTACT US
   create: all
   match: "**/*"
 - type: directory
   path: ''
-  label: About us
+  label: ABOUT US
+  create: all
+  match: "**/*"
+- type: directory
+  path: ''
+  label: About Us
   create: all
   match: "**/*"
 upload_dir: static/images
